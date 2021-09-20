@@ -24,7 +24,7 @@ Sur les machines similaires à ou basées sur Unix (Linux, macOS, *BSD, &c), vou
 
 Si vous utilisez Windows, n'utilisez pas Windows.
 
-## Contribution
+## Contributions
 
 La contribution est le fondement des projets FOSS.
 `mise_en_route.py` ne serait pas là où il en est sans les contributions de sa communauté, et pour celà, on vous remercie.
@@ -64,7 +64,19 @@ Une fois que vous avez terminé vous changements, vous pouvez commit votre chang
 % git push origin <LE NOM DE VOTRE BRANCHE>
 ```
 
-Je viendrais donc vérifier les changements et les merge si je les juge adéquats.
+Notre équipe de première-classe viendra donc vérifier les changements et les merge si jugés adéquats.
+
+## L'intégration continue
+
+*Cette section n'est seulement valide pour ceux qui ont l'accès au repository GitHub.*
+*Si vous avez envie d'intégrer le repository ~~et je vous assure, vous en avez envie~~, veuillez vous référer à la section "Contributions".*
+
+`mise_en_route.py` vise à être un programme stable et fiable, donc, contrairement à [Google](https://static.googleusercontent.com/media/www.google.com/en//appsstatus/dashboard/ir/fw6156fs1panucr.pdf) et certaines autres entreprises de la Big Tech, nous estimons les procédures d'intégration continue (CI) de la plus haute importance.
+
+C'est pourquoi un workflow GitHub est mis en place sur le repository GitHub qui permet d'installer un environnement Python 3.9 adéquat sur la dernière version de Ubuntu.
+Cet environnement sert à tester toutes modifications apportées à `mise_en_route.py`.
+Le code est automatiquement passé dans un linter (PyLint, configuré dans `lint.py`), qui retourne un score de qualité sur 10.
+Chez `mise_en_route.py`, l'excellence est au premier rang, et nous n'acceptons aucun résultat du linter de moins de la note parfaite de 10/10.
 
 ## License
 
