@@ -42,6 +42,7 @@ Merci.
 ```
 
 Notre équipe 24h/24 se fera un plaisir de répondre à votre demande dans les plus brefs délais.
+Si celà vous convient mieux, nous avons également un service de support sur Discord au travers l'utilisateur obiwac#7599.
 Une fois que vous avez l'accès, mettez en place l'authentification SSH sur GitHub (ce qui est nécessaire pour contribuer à des repositories privées), et clonez le repository :
 
 ```sh
