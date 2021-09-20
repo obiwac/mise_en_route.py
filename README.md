@@ -3,9 +3,9 @@
 Ce document est destiné aux utilisateurs du programme `mise_en_route.py`.
 C'est un programme très utile qui permet de affiche trois colonnes de nombres:
 
- - La première afficheles dix premiers nombres entiers commençant par 1.
- - La seconde affiche les dix premiers carrés de nombres entiers commençant par 1.
- - La dernière affiche la somme des carrés précédents.
+- La première affiche les dix premiers nombres entiers commençant par 1.
+- La seconde affiche les dix premiers carrés de nombres entiers commençant par 1.
+- La dernière affiche la somme des carrés précédents.
 
 ## Dépendances
 
@@ -14,7 +14,7 @@ Pour l'installer, débrouillez vous.
 
 ## Installation
 
-Sur les machines similaires à ou basées sur Unix (Linux, macOS, *BSD, &c), vous pouvez installer `mise_en_route.py` en le rendant d'abord executable, et puis en le déplaçant dans un dossier appartenant à `$PATH` (e.g., `/usr/local/bin/`) :
+Sur les machines similaires à ou basées sur Unix (Linux, macOS, *BSD, &c), vous pouvez installer `mise_en_route.py` en le rendant d'abord exécutable, et puis en le déplaçant dans un dossier appartenant à `$PATH` (e.g., `/usr/local/bin/`) :
 
 ```sh
 % chmod +x src/mise_en_route.py
@@ -25,29 +25,30 @@ Si vous utilisez Windows, n'utilisez pas Windows.
 
 ## Contribution
 
-La contribution est le fondement des projects FOSS.
+La contribution est le fondement des projets FOSS.
 `mise_en_route.py` ne serait pas là où il en est sans les contributions de sa communauté, et pour celà, on vous remercie.
 
-Un repositoire git est mis en place sur GitHub en privé sur [obiwac/mise_en_route.py](https://github.com/obiwac/mise_en_route.py). Vous pouvez demander l'accès en envoyant un e-mail à l'adresse obiwac@gmail.com, avec le titre "Demande d'accès à `mise_en_route.py`", et le format suivant :
+Un repository git est mis en place sur GitHub en privé sur [obiwac/mise_en_route.py](https://github.com/obiwac/mise_en_route.py). Vous pouvez demander l'accès en envoyant un e-mail à l'adresse obiwac@gmail.com, avec le titre "Demande d'accès à `mise_en_route.py`", et le format suivant :
 
 ```
 Bonjour,
 
-Je souhaiterais contribuer au project `mise_en_route.py`.
-Je demande donc l'accès au repositoire git hébergé sur GitHub sur https://github.com/obiwac/mise_en_route.py
+Je souhaiterais contribuer au projet `mise_en_route.py`.
+Je demande donc l'accès au repository git hébergé sur GitHub sur https://github.com/obiwac/mise_en_route.py
 Mon identifiant sur GitHub est : <VOTRE IDENTIFIANT GITHUB>
 
 Merci.
 ```
 
-Une fois que vous avez l'accès, mettez en place l'authentication SSH sur GitHub (ce qui est nécessaire pour contribuer à des repositoires privées), et clonez le repositoire :
+Notre équipe 24h/24 se fera un plaisir de répondre à votre demande dans les plus brefs délais.
+Une fois que vous avez l'accès, mettez en place l'authentification SSH sur GitHub (ce qui est nécessaire pour contribuer à des repositories privées), et clonez le repository :
 
 ```sh
 % git clone ssh://git@github.com/obiwac/mise_en_route.py
 % cd mise_en_route.py/
 ```
 
-Vous pouvez ensuite créer une nouvelle branche (avec un nom sensible) avant d'éffectuer vos changements :
+Vous pouvez ensuite créer une nouvelle branche (avec un nom sensible) avant d'effectuer vos changements :
 
 ```sh
 % git checkout -b <LE NOM DE VOTRE NOUVELLE BRANCHE>
@@ -95,4 +96,4 @@ SOFTWARE.
 
 Le projet `mise_en_route.py` est un projet international qui a pour fins d'améliorer le niveau de vie global et de faire avancer la société humaine.
 Cependant, il n'a pas encore de sponsors.
-Si vous connaissez une organisation qui serait suceptible de sponsoriser le projet, parlez-en leur.
+Si vous connaissez une organisation qui serait susceptible de sponsoriser le projet, parlez-en leur.
