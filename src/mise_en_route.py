@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 i = 0
 sum_of_squares = 0
 
