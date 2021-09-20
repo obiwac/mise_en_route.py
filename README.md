@@ -17,8 +17,8 @@ Pour l'installer, débrouillez vous.
 Sur les machines similaires à ou basées sur Unix (Linux, macOS, *BSD, &c), vous pouvez installer `mise_en_route.py` en le rendant d'abord executable, et puis en le déplaçant dans un dossier appartenant à `$PATH` (e.g., `/usr/local/bin/`) :
 
 ```sh
-% chmod +x mise_en_route.py
-# cp mise_en_route.py /usr/local/bin/
+% chmod +x src/mise_en_route.py
+% cp src/mise_en_route.py /usr/local/bin/
 ```
 
 Si vous utilisez Windows, n'utilisez pas Windows.
