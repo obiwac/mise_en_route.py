@@ -28,7 +28,7 @@ Si vous utilisez Windows, n'utilisez pas Windows.
 La contribution est le fondement des projects FOSS.
 `mise_en_route.py` ne serait pas là où il en est sans les contributions de sa communauté, et pour celà, on vous remercie.
 
-Un repositoire git est mis en place sur GitHub en privé sur (obiwac/mise_en_route.py)[https://github.com/obiwac/mise_en_route.py]. Vous pouvez demander l'accès en envoyant un e-mail à l'adresse obiwac@gmail.com, avec le titre "Demande d'accès à `mise_en_route.py`", et le format suivant :
+Un repositoire git est mis en place sur GitHub en privé sur [obiwac/mise_en_route.py](https://github.com/obiwac/mise_en_route.py). Vous pouvez demander l'accès en envoyant un e-mail à l'adresse obiwac@gmail.com, avec le titre "Demande d'accès à `mise_en_route.py`", et le format suivant :
 
 ```
 Bonjour,
