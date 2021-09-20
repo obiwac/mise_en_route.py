@@ -5,7 +5,8 @@ C'est un programme très utile qui permet de affiche trois colonnes de nombres:
 
 - La première affiche les dix premiers nombres entiers commençant par 1.
 - La seconde affiche les dix premiers carrés de nombres entiers commençant par 1.
-- La dernière affiche la somme des carrés précédents.
+- La troisème affiche la somme des carrés précédents.
+- La dernière affiche la même chose que la troisième, ce qui est utile pour plein d'applications que nous n'avons pas la place de citer ici.
 
 ## Dépendances
 
