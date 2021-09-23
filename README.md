@@ -1,17 +1,17 @@
 # mise_en_route.py
 
 Ce document est destiné aux utilisateurs du programme `mise_en_route.py`.
-C'est un programme très utile qui permet de affiche trois colonnes de nombres:
+C'est un programme très utile qui permet d'afficher trois colonnes de nombres:
 
 - La première affiche les dix premiers nombres entiers commençant par 1.
 - La seconde affiche les dix premiers carrés de nombres entiers commençant par 1.
 - La troisème affiche la somme des carrés précédents.
-- La dernière affiche la même chose que la troisième, ce qui est utile pour plein d'applications que nous n'avons pas la place de citer ici.
+- La dernière affiche la même chose que la troisième, ce qui est utile pour plein d'applications que nous n'avons pas la place de citer ici (Nous savons par exemple que l'UCL l'utilise pour ses algorithmes avancés de détection de triche).
 
 ## Dépendances
 
 `mise_en_route.py` requiert une installation de Python 3.
-Pour l'installer, débrouillez vous.
+Pour l'installer, débrouillez-vous.
 
 ## Installation
 
@@ -22,12 +22,12 @@ Sur les machines similaires à ou basées sur Unix (Linux, macOS, *BSD, &c), vou
 % cp src/mise_en_route.py /usr/local/bin/
 ```
 
-Si vous utilisez Windows, n'utilisez pas Windows.
+Si vous utilisez Windows, n'utilisez pas Windows
 
 ## Contributions
 
 La contribution est le fondement des projets FOSS.
-`mise_en_route.py` ne serait pas là où il en est sans les contributions de sa communauté, et pour celà, on vous remercie.
+`mise_en_route.py` n'en serait pas là où il en est sans les contributions de sa communauté, et pour celà, on vous remercie.
 
 Un repository git est mis en place sur GitHub en privé sur [obiwac/mise_en_route.py](https://github.com/obiwac/mise_en_route.py). Vous pouvez demander l'accès en envoyant un e-mail à l'adresse obiwac@gmail.com, avec le titre "Demande d'accès à `mise_en_route.py`", et le format suivant :
 
@@ -66,12 +66,12 @@ Une fois que vous avez terminé vous changements, vous pouvez commit votre chang
 
 Notre équipe de première-classe viendra donc vérifier les changements et les merge si jugés adéquats.
 
-## L'intégration continue
+## Intégration continue
 
 *Cette section n'est seulement valide pour ceux qui ont l'accès au repository GitHub.*
 *Si vous avez envie d'intégrer le repository ~~et je vous assure, vous en avez envie~~, veuillez vous référer à la section "Contributions".*
 
-`mise_en_route.py` vise à être un programme stable et fiable, donc, contrairement à [Google](https://static.googleusercontent.com/media/www.google.com/en//appsstatus/dashboard/ir/fw6156fs1panucr.pdf) et certaines autres entreprises de la Big Tech, nous estimons les procédures d'intégration continue (CI) de la plus haute importance.
+`mise_en_route.py` vise à être un programme stable et fiable, donc, contrairement à [Google](https://static.googleusercontent.com/media/www.google.com/en//appsstatus/dashboard/ir/fw6156fs1panucr.pdf) et certaines autres entreprises de la Big Tech, nous considérons les procédures d'intégration continue (CI) de la plus haute importance.
 
 C'est pourquoi un workflow GitHub est mis en place sur le repository GitHub qui permet d'installer un environnement Python 3.9 adéquat sur la dernière version de Ubuntu.
 Cet environnement sert à tester toutes modifications apportées à `mise_en_route.py`.
