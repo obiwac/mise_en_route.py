@@ -1,7 +1,7 @@
 # mise_en_route.py
 
 Ce document est destiné aux utilisateurs du programme `mise_en_route.py`.
-C'est un programme très utile qui permet d'afficher trois colonnes de nombres:
+C'est un programme très utile qui permet d'afficher quatre colonnes de nombres:
 
 - La première affiche les dix premiers nombres entiers commençant par 1.
 - La seconde affiche les dix premiers carrés de nombres entiers commençant par 1.
