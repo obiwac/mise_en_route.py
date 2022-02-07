@@ -22,7 +22,7 @@ Sur les machines similaires à ou basées sur Unix (Linux, macOS, *BSD, &c), vou
 % cp src/mise_en_route.py /usr/local/bin/
 ```
 
-Si vous utilisez Windows, n'utilisez pas Windows
+Si vous utilisez Windows, n'utilisez pas Windows.
 
 ## Contributions
 
