@@ -80,7 +80,7 @@ Chez `mise_en_route.py`, l'excellence est au premier rang, et nous n'acceptons a
 
 ## License
 
-Ce document et le code source de ce projet (appelées le "Software") sont distribuées sous la license MIT :
+Ce document et le code source de ce projet (appelés le "Software") sont distribuées sous la license MIT :
 
 ```
 MIT License
