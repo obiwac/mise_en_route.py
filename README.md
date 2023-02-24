@@ -56,7 +56,7 @@ Vous pouvez ensuite créer une nouvelle branche (avec un nom sensible) avant d'e
 % git checkout -b <LE NOM DE VOTRE NOUVELLE BRANCHE>
 ```
 
-Une fois que vous avez terminé vous changements, vous pouvez commit votre changement avec :
+Une fois que vous avez terminé vos changements, vous pouvez les commit avec :
 
 ```sh
 % git add .
