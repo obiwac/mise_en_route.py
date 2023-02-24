@@ -17,9 +17,9 @@ Pour l'installer, débrouillez-vous.
 
 Sur les machines similaires à ou basées sur Unix (Linux, macOS, *BSD, &c), vous pouvez installer `mise_en_route.py` en le rendant d'abord exécutable, et puis en le déplaçant dans un dossier appartenant à `$PATH` (e.g., `/usr/local/bin/`) :
 
-```sh
-% chmod +x src/mise_en_route.py
-% cp src/mise_en_route.py /usr/local/bin/
+```console
+chmod +x src/mise_en_route.py
+cp src/mise_en_route.py /usr/local/bin/
 ```
 
 Si vous utilisez Windows, n'utilisez pas Windows.
@@ -45,23 +45,23 @@ Notre équipe 24h/24 se fera un plaisir de répondre à votre demande dans les p
 Si celà vous convient mieux, nous avons également un service de support sur Discord au travers l'utilisateur obiwac#7599.
 Une fois que vous avez l'accès, mettez en place l'authentification SSH sur GitHub (ce qui est nécessaire pour contribuer à des repositories privées), et clonez le repository :
 
-```sh
-% git clone ssh://git@github.com/obiwac/mise_en_route.py
-% cd mise_en_route.py/
+```console
+git clone ssh://git@github.com/obiwac/mise_en_route.py
+cd mise_en_route.py/
 ```
 
 Vous pouvez ensuite créer une nouvelle branche (avec un nom sensible) avant d'effectuer vos changements :
 
-```sh
-% git checkout -b <LE NOM DE VOTRE NOUVELLE BRANCHE>
+```console
+git checkout -b <LE NOM DE VOTRE NOUVELLE BRANCHE>
 ```
 
 Une fois que vous avez terminé vos changements, vous pouvez les commit avec :
 
-```sh
-% git add .
-% git commit -m "<LE NOM DE VOTRE COMMIT>"
-% git push origin <LE NOM DE VOTRE BRANCHE>
+```console
+git add .
+git commit -m "<LE NOM DE VOTRE COMMIT>"
+git push origin <LE NOM DE VOTRE BRANCHE>
 ```
 
 Notre équipe de première-classe viendra donc vérifier les changements et les merge si jugés adéquats.
