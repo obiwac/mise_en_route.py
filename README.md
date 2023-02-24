@@ -1,7 +1,7 @@
 # mise_en_route.py
 
 Ce document est destiné aux utilisateurs du programme `mise_en_route.py`.
-C'est un programme très utile qui permet d'afficher quatre colonnes de nombres:
+C'est un programme très utile qui permet d'afficher quatre colonnes de nombres :
 
 - La première affiche les dix premiers nombres entiers commençant par 1.
 - La seconde affiche les dix premiers carrés de nombres entiers commençant par 1.
@@ -80,7 +80,7 @@ Chez `mise_en_route.py`, l'excellence est au premier rang, et nous n'acceptons a
 
 ## License
 
-Ce document et le code source de ce projet (appelées le "Software") sont distribuées sous la license MIT :
+Ce document et le code source de ce projet (appelés le "Software") sont distribuées sous la license MIT :
 
 ```
 MIT License
