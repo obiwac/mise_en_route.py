@@ -9,7 +9,7 @@ LINTER_OPTIONS = [
 ]
 
 results = linter.Run(["./src"] + LINTER_OPTIONS, do_exit = False)
-score = results.linter.stats["global_note"]
+score = results.linter.stats.global_note
 
 if score < 10:
 	raise Exception(f"Linter failed, score is {score}")
